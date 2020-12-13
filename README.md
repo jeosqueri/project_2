@@ -63,68 +63,119 @@
 
 ## **Step 2: **ERD**
 
-![](Images/ERD.png)
+![ERD_image](https://user-images.githubusercontent.com/69160361/102026590-efd58c00-3d5b-11eb-8155-5b1b30c6b528.png)
 
 
 
-### **US Stats** (duplicates included)
+### **US Stats** 
 
-- ​		 **Average Video Likes: 	74,266** 	
+- ​		 **Average Video Likes: 74,267** 	
 - ​		**Average Dislikes:  3,711**  
 - ​		**Average Comment Count: 8,446**
-- ​		**Average Views:**
+- ​		**Average Views: 2,360,785**
 
-### **Most liked video**: 
+### **Most liked video**: BTS, "'Fake Love' Official Music Video"
 
-- ​		BTS
+* Likes: 5,613,827
+* Dislikes: 206,892
+* Comment Count: 1,228,655
 
-### **Most disliked video AND most commented video:** 
+### **Most disliked video**: Logan Paul Vlogs, “So Sorry”
 
-- ​		Logan Paul Apology Video- “So Sorry”
+* Likes: 1,402,578
+* Dislikes: 1,674,420
+* Comment Count: 1,361,580
 
-- ​		Shows that trending/number of comments is not always an indicator of people liking/enjoying the video 
+### **Most commented video:** Logan Paul Vlogs, "So Sorry"
 
-  ​			(controversy is very popular) 
+* Likes: 1,402,578
+* Dislikes: 1,674,420
+* Comment Count: 1,361,580
 
-- ​		Also in Russian set which is funny
+### **Most popular categories**(as measured by views)
 
-### **Most popular categories**
+* Music: 40,132,892,190 views
+    * Most viewed video/channel: ChildishGambinoVEVO, “This is America Music Video” (225,211,923 views)
 
-- ​		Music
-- ​		Entertainment
-- ​		Film & Animation
-- ​		Comedy
-- ​		People & Blogs
+* Entertainment: 20,604,388,195 views
+    * Most viewed video/channel: YouTube Spotlight, ‘"YouTube Rewind: The Shape of 2017 | #YouTubeRewind" (149,376,127 views)
+    
+* Film & Animation: 7,284,156,721 views
+    * Most viewed video/channel: Selena Gomez, “Back to You (Lyric Video)” (54,863,912 views)
+    
+* Comedy: 5,117,426,208 views
+    * Most viewed video/channel: Hannah Stocking, “Poo Bear ft. Justin Bieber & Jay Electronica - Hard 2 Face Reality (Lyric Video)” (29,178,096 views)
+    
+* People & Blogs: 4,917,191,726 views
+    * Most viewed video/channel: Kylie Jenner, “To Our Daughter" (56,111,957 views)
 
+### **Most popular channel overall**(as measured by the number of times the channel occured in dataset)
 
-
-### **Most popular channel overall**
-
-- ​		ESPN
-- ​		The tonight show
-- ​		The Ellen Show
-- ​		Netflix
-- ​		Vox
-
+* ESPN: 203 trending videos (category: sports)
+* The tonight show: 197 videos (comedy)
+* The Ellen Show: 193 videos (entertainment)
+* Netflix: 193 videos (entertainment)
+* Vox: 193 videos (news & politics)
 
 
 ### **Russia Stats**
 
-​		**Average Video Likes:**
+​		**Average Video Likes: 12,435**
 
-​		**Average Dislikes:** 
+​		**Average Dislikes: 1,475** 
 
-​		**Average Comment Count:** 
+​		**Average Comment Count: 1,775** 
+​        
+​               **Average Views: 240,715** 
 
 
+### **Most liked video**: BTS, "‘Fake Love’ Official Music Video"
 
-### **Most liked video**:
+* Likes: 4,470,923
+* Dislikes: 119,053
+* Comment Count: 905,925
 
-### **Most disliked video:**
+### **Most disliked video:** YouTube Rewind, "The Shape of 2017"
 
-### **Most commented video:** 
+* Likes: 1,891,836
+* Dislikes: 884,967
+* Comment Count: 702,790
 
-### **Most popular categories**:
+### **Most commented video:** BTS, "‘Fake Love’ Official Music Video"
 
-### **Most popular channel**:
+* Likes: 4,470,923
+* Dislikes: 119,053
+* Comment Count: 905,925
 
+### **Most popular categories**: (as measured by views)
+
+* Entertainment: 2,088,743,148 views
+    * Most viewed video/channel: YouTube Spotlight, “YouTube Rewind: The Shape of 2017 | #YouTubeRewind" (52,611,730 views)
+    
+* Music: 1,605,269,644 views
+    * Most viewed video/channel: ibighit, “BTS (방탄소년단) 'FAKE LOVE' Official MV" (62,796,390 views)
+    
+* People & Blogs: 1,564,739,895 views
+    * Most viewed video/channel: Kylie Jenner “To Our Daughter" (35,832,484 views)
+    
+* Comedy: 1,021,361,186 views
+    * Most viewed video/channel: The Tonight Show Starring Jimmy Fallon,  “Musical Genre Challenge with Ariana Grande"(7,172,963 views)
+    
+* News & Politics: 739,248,272 views
+    * Most video/viewed channel: PewDiePie “"LOGAN PAUL RETURNS  📰 PEW NEWS📰" (6,975,564 views)
+
+### **Most popular channel**: (as measured by the number of times the channel occured in dataset)
+
+* Анатолий Шарий (Anatoly Shariy): 196 videos, (category: comedy)
+* Эхо Москвы (Echo of Moscow): 184 (News & Politics)
+* Модные Практики с Паукште Ириной Михайловной (Fashion Practices with Paukshte Irina Mikhailovna): 168 (Howto & Style)
+* Wylsacom: 167 (Science & technology)
+* Kamikadzedead: 158 (comedy)
+
+
+### **Observations**
+* The US and Russia share the same most popular video of the year, the BTS music video for their song ‘Fake Love’
+* Many videos that were trending were popular in both countries (Youtube spotlight, Kylie Jenner, BTS, Logan Paul)
+* US media is pretty popular in Russia, but most US videos are from US creators/content channels.
+* The most viewed channels per category are not necessarily the most popular channels. When comparing the most popular categories as measured by views to the most popular channels measured by how many times they ended up on the trending list, you can see that these do not always line up. For example, in Russia, the comedy channel video with the most views is from Jimmy Fallon, but the comedy channel with the greatest amount of trending videos is Anatoly Shariy. This means that Jimmy Fallon had one incredibly popular video, but that Anatoly Shariy had many popular videos. 
+* The most disliked videos still have alot of engagement, suggesting that views/comments might not be a valuable metric of likeability, and that ‘controversies’ can be very popular (for example, the most disliked and most commented on video in the US was an apology video from Logan Paul Vlogs).
