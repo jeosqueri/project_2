@@ -166,11 +166,11 @@
 
 ### **Most popular channel**: (as measured by the number of times the channel occured in dataset)
 
-* Анатолий Шарий (Anatoly Shariy): 196 videos, (category: comedy)
-* Эхо Москвы (Echo of Moscow): 184 (News & Politics)
-* Модные Практики с Паукште Ириной Михайловной (Fashion Practices with Paukshte Irina Mikhailovna): 168 (Howto & Style)
-* Wylsacom: 167 (Science & technology)
-* Kamikadzedead: 158 (comedy)
+* Анатолий Шарий (Anatoly Shariy): 196 trending videos (category: comedy)
+* Эхо Москвы (Echo of Moscow): 184 videos (News & Politics)
+* Модные Практики с Паукште Ириной Михайловной (Fashion Practices with Paukshte Irina Mikhailovna): 168 videos (Howto & Style)
+* Wylsacom: 167 videos (Science & technology)
+* Kamikadzedead: 158 videos (comedy)
 
 
 ### **Observations**
