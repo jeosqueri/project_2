@@ -1,5 +1,19 @@
 # ETL Project: Trending YouTube Videos (2017-2018)
 
+
+
+#### Project Report and Analysis By:
+
+- ##### Julia Squery
+
+- ##### Jen Mahon 
+
+- ##### John Shuford
+
+- ##### Fereshteh Aghaei
+
+
+
 **Dataset Description:** The data used in this project was taken from a publicly available dataset on Kaggle that was gathered using the YouTube API. The data used here was a collection of the top trending videos from YouTube for the years 2017-2018. YouTube determines the top trending videos of the year based on a combination of factors including views, likes, and comments (note: top trending videos are different than the most viewed videos of the year). For this project, we chose to compare the United States dataset of top trending videos to the Russia dataset. Both datasets included over 40,000 videos from the years 2017-2018 and various metrics about the videos, including the channel title, video title, video category, amount of likes/dislikes, comment count, views, and more. (Note: not every data point in this set is unique, since an individual video can be trending for multiple days. Some of the most popular videos will be in these datasets multiple times, because they were trending for multiple days).Source: https://www.kaggle.com/datasnaek/youtube-new
 
 ---
