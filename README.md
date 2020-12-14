@@ -18,7 +18,7 @@
 
 ---
 
-## **Step 1: Extract, (translate), Transfer, Load U.S.A Data**
+## **Step 1: Extract, (translate), Transfer U.S.A Data**
 
 ----
 
@@ -48,7 +48,7 @@
 
 ----
 
-## Step 2: Extract, (translate), Transfer, Load Russia Data
+## Step 2: Extract, (translate), Transfer Russia Data
 
 ----
 
@@ -86,7 +86,11 @@
 
 
 
-## Step 4: Created Tables, Joined Tables & Data Calculation (Analysis)
+## Step 4: Load
+
+
+
+## Created Tables, Joined Tables & Data Calculation (Analysis)
 
 We chose to use PGAdmin/PostgresSQL, a relational database, because our three datasets/tables could be linked together by the use of primary and foreign keys. These tables were able to relate to each other by the shared category IDs. 
 
