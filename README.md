@@ -74,7 +74,7 @@
 
 [![](Images/RU6.png)](https://github.com/jeosqueri/project_2/blob/main/Images/RU6.png)
 
-## **Step 3: ERD
+## Step 3: ERD
 
 ![](Images/ERD.png)
 
@@ -88,7 +88,12 @@
 
 ## Step 4: Created Tables, Joined Tables & Data Calculation (Analysis)
 
+We chose to use PGAdmin/PostgresSQL, a relational database, because our three datasets/tables could be linked together by the use of primary and foreign keys. These tables were able to relate to each other by the shared category IDs. 
 
+After we were satisfied with the format of our dataframes, they were loaded into tables in Postgres (pgAdmin4) by forming a connection to the jupyter notebook through the creation of an engine (ORM). This involved creating tables in PostgreSQL that we can load our data into using Pandas. Each table is assigned a primary key (typically id) for relational purposes. We created tables with the number and names of columns present in the dataframes we previously created.
+
+The file 'SQL_tables.sql' includes the code for our tables, and 'table_joins.sql' includes the code for our joins.
+The files 'jes_queries.sql','jm_sql_work.sql', and 'jm_queries.sql' include all of the queries run for this project.
 
 ![](Images/sql1.png)
 
