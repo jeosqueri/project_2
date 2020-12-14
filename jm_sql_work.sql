@@ -24,7 +24,7 @@ SELECT category_name, title, views
 FROM ru_join
 WHERE views = (SELECT MAX(views) FROM ru_join);
 
---least views in us table 
+--least views in us 
 SELECT * FROM us_join
 ORDER BY views
 LIMIT 50;
@@ -110,17 +110,6 @@ SELECT category_name, title, comment_count
 FROM ru_join
 WHERE comment_count = (SELECT MAX(comment_count) FROM ru_join);
 
--- us most popular tags (create new table with tags separated out and then run query on that table?)
-SELECT tags, COUNT (DISTINCT tags) AS "tags count" 
-FROM us_join
-GROUP BY tags
-ORDER BY "tags count" DESC;
-
--- ru most popular tags (create new table with tags separated out and then run query on that table?)
-SELECT tags, en_tags, COUNT (DISTINCT tags) AS "tags count" 
-FROM ru_join
-GROUP BY tags, en_tags
-ORDER BY "tags count" DESC;
 
 --titles with views and likes in us
 SELECT title, views, likes FROM us_join
