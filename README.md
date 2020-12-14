@@ -116,7 +116,7 @@
 ## Results
 =======
 
-### **US Stats** 
+## **US Stats** 
 
 - ​		 **Average Video Likes: 74,267** 	
 - ​		**Average Dislikes:  3,711**  
@@ -167,7 +167,7 @@
 * Vox: **193** videos (news & politics)
 
 
-### **Russia Stats**
+## **Russia Stats**
 
 - ​		**Average Video Likes: 12,435**
 - ​		**Average Dislikes: 1,475** 
@@ -214,7 +214,7 @@
 * Wylsacom: **167** videos (science & technology)
 * Kamikadzedead: **158** videos (comedy)
 
-### **Observations**
+## **Observations**
 =======
 * The US and Russia share the same most popular video of the year, the BTS music video for their song ‘Fake Love’.
 * Many videos that were trending were popular in both countries (Youtube spotlight, Kylie Jenner, BTS, Logan Paul).
